@@ -1,0 +1,1 @@
+{"version":3,"file":"ALL_ALGORITHMS.js","sourceRoot":"","sources":["../src/ALL_ALGORITHMS.ts"],"names":[],"mappings":"AAGA,MAAM,CAAC,MAAM,cAAc,GAAwB,CAAC,SAAS,EAAE,SAAS,CAAC,CAAC","sourcesContent":["import type { ADDRESS_ALGORITHM } from \"./ADDRESS_ALGORITHM\";\n\n\nexport const ALL_ALGORITHMS: ADDRESS_ALGORITHM[] = [\"SHA-256\", \"SHA-512\"];\n"]}
