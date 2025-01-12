@@ -1,6 +1,6 @@
 {
   "name": "@mjt-engine/byte",
-  "version": "2025.1.12-1133",
+  "version": "2025.1.12-1138",
   "sideEffects": false,
   "description": "byte module",
   "main": "./dist/index.js",
