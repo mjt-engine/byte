@@ -4,4 +4,4 @@ JS has a tumultuous relationship with bytes. This module aims to make working wi
 
 ## Documentation
 
-For detailed documentation, please visit the [project documentation](https://mjt-engine.github.io/assert/).
+For detailed documentation, please visit the [project documentation](https://mjt-engine.github.io/byte/).
