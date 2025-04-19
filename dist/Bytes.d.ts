@@ -1,7 +1,7 @@
 import { arrayBufferToBase64 } from "./arrayBufferToBase64";
 import { toBase64 } from "./toBase64";
 export declare const Bytes: {
-    toMsgPack: <T>(obj: T) => Uint8Array<Buffer>;
+    toMsgPack: <T>(obj: T) => Uint8Array<ArrayBufferLike>;
     msgPackToObject: <T>(bytes: ArrayLike<number>) => T;
     typeOfBytes: (bytes: unknown) => "string" | "Blob" | "ArrayBuffer" | "ArrayBufferView" | "Array" | undefined;
     toDataUrl: (bytes: import(".").ByteLike) => Promise<string>;

@@ -1,6 +1,9 @@
 # Changelog
 
 
+## 2025-04-19
+- force types on toMsgPack to fix node Buffer issue ([a15701f](https://github.com/mjt-engine/byte/commit/a15701f52507da1c60b5cfbdc8fe8c6efb55d786)) by Matt Taylor
+
 ## 2025-03-16
 - bumped dep versions ([196e614](https://github.com/mjt-engine/byte/commit/196e614e9cdb3acecd147d8d0f1fc10062b21162)) by Matt Taylor
 
